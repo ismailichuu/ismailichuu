@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohammed%20Ismail%20C%20N&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software-Engineer%20Web%20Developer&descAlignY=58&descSize=22&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohammed%20Ismail%20C%20N&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descSize=22&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -81,9 +81,9 @@ const ismail = {
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats />
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ismailichuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ismailichuu&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
@@ -92,9 +92,7 @@ const ismail = {
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailichuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
 
-</div>
-
----
+</div> -->
 
 <div align="center">
 
@@ -104,7 +102,7 @@ const ismail = {
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ismailichuu&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
@@ -112,4 +110,4 @@ const ismail = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-</div>
+</div> -->
