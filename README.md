@@ -96,7 +96,7 @@ const ismail = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ismailichuu&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedismailcn&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
