@@ -26,7 +26,7 @@ const ismail = {
   role:      "Full-Stack Developer",
   location:  "Kerala, India 🇮🇳",
   frontend:  ["Next.js", "React", "TypeScript", "Tailwind"],
-  backend:   ["Node.js", "NestJS", "Express", "Python"],
+  backend:   ["Node.js", "NestJS", "Express"],
   database:  ["PostgreSQL", "MongoDB", "MySQL"],
   devops:    ["Docker", "AWS", "Nginx", "Linux"],
   currently: "Shipping production-grade web apps",
